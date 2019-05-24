@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    flowbyte-yanked (1.0.1)
+    flowbyte_yanked (1.0.1)
     minitest (5.11.0)
     rake (12.0.0)
 
@@ -9,7 +9,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  flowbyte-yanked
+  flowbyte_yanked
   minitest
   rake
 
