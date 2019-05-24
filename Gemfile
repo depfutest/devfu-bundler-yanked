@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'rake', '~> 11.0'
+gem 'rake'
 gem 'minitest'
-gem 'ffi'
+gem 'ffi', '1.11.0'
